@@ -1,0 +1,8 @@
+Plotly
+Acct: ecreech
+API Key: SA8OAxoY91sbLqZXU4iq
+
+on npm install Plotly got the following warning:
+npm WARN ts-pnp@1.0.1 requires a peer of typescript@* but none is installed. You must install peer dependencies yourself.
+
+Possible solution: npm install -g tslint typescript
